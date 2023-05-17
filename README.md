@@ -22,15 +22,15 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
 # 📖 [Boostrap Portfolio] <a name="about-project"></a>
 
 **[Boostrap Portfolio]** is a collection of materials that showcases your work, accomplishments, and skills. It can include a variety of items, such as art pieces, writing samples, design work, photography, videos, or any other creative work that demonstrates your abilities; using BOOSTRAP FRAMEWORK.
 
 ## 🛠 Built With <a name="built-with">
+
 - HTML
 - CSS FRAMEWORK (BOOSTRAP)
-</a>
+  </a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -59,12 +59,9 @@
 
 - **[Home Page]**
 - **[Navigation Bar]**
-- **[About-me section which includes  information about Languages, frameworks, skills and resume]**
+- **[About-me section which includes information about Languages, frameworks, skills and resume]**
 - **[Work section which includes my recent project]**
 - **[add contact form]**
-
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,8 +85,9 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  Clone this repository to your desired folder
-  - git clone https://github.com/Blessman-Newton/Microverse_Porfolio.git
+Clone this repository to your desired folder
+
+- git clone https://github.com/Blessman-Newton/Microverse_Porfolio.git
 
 ### Install
 
@@ -107,7 +105,7 @@ Open index.html in your browser
 
 To run tests, run the following command:
 
-<npx stylelint "**/*.{css,scss}
+<npx stylelint "\*_/_.{css,scss}
 
 ### Deployment
 
@@ -118,8 +116,8 @@ You can deploy this project using by transfering files in your local repository 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors">Blessman Newton</a>
-## 👥 Authors <a name="authors">Emmanuel Ntihinyuka</a>
 
+## 👥 Authors <a name="authors">Emmanuel Ntihinyuka</a>
 
 👤 **Author1**
 
@@ -129,12 +127,13 @@ You can deploy this project using by transfering files in your local repository 
 
 👤 **Author2**
 
-- GitHub: [@](https://github.com/)
-- Twitter: [@](https://twitter.com/)
-- LinkedIn: [](https://linkedin.com/in/)
+- GitHub: [@ntimanu](https://github.com/ntimanu)
+- Twitter:[@emmantihinyuka](https://twitter.com/emmantihinyuka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ntihinyuka-emmanuel-511890104/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
+
 - [ ] **[implementation of detail modal window]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -153,16 +152,13 @@ If you like this project, show me 🤝🤝🤝
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for the best technical training they are taking me through and the code reviewers for having guided me to produce required results
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
